@@ -11,4 +11,4 @@ https://ars0x.hashnode.dev/nextid-building-the-identity-infrastructure-for-next-
 
 https://dev.to/ars0x/building-the-identity-infrastructure-for-next-gen-social-graph-2bk7
 
-https://app.hackernoon.com/mobile/suL3TwKUQyqCWwQOKlgX
+https://hackernoon.com/preview/suL3TwKUQyqCWwQOKlgX
